@@ -1,0 +1,6 @@
+x1 = int(input("enter the x1"))
+x2 = int(input("enter the x2"))
+y1 = int(input("enter the y1"))
+y2 = int(input("enter the y2"))
+m = (y2-y1)/(x2-x1)
+print("slope is", m)
